@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "SSAS_SalesAnalysis_Clean", "SSAS_SalesAnalysis_Clean\SSAS_SalesAnalysis_Clean.dwproj", "{E88A6C85-4807-F5F5-E520-16CF09CC939D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E88A6C85-4807-F5F5-E520-16CF09CC939D}.Development|Default.ActiveCfg = Development
+		{E88A6C85-4807-F5F5-E520-16CF09CC939D}.Development|Default.Build.0 = Development
+		{E88A6C85-4807-F5F5-E520-16CF09CC939D}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0FCA233-2620-4FDD-9C02-F4BDE15B5FA6}
+	EndGlobalSection
+EndGlobal
